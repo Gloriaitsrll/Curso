@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(240, 182, 238);
+    color: #f0f8ff;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}     
+h1{
+    font-style: italic;
+}   
+li.especial {
+    font-weight:bold;
+    transition:1.5s all;
+}
+.especial:hover {
+    color: rgb(241, 255, 135);
+
+}
+section p, p {
+    text-decoration: underline;
+    cursor: pointer;
+}
+ #profile{
+    width:200px;            
+}
